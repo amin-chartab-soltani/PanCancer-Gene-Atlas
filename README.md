@@ -35,10 +35,11 @@ The model is trained with **class-weighted loss** to handle class imbalance and 
 
 The performance of the model across two prediction tasks is summarized below:
 
+| Relation      | 93.70%          | _                    | 0.9123   | 0.9370 | 0.8989    | 0.9986|
 | Output Type   | Overall Accuracy | Class-weighted Accuracy | F1-Score | Recall | Precision | AUC |
 |---------------|-----------------|------------------------|----------|--------|-----------|-------|
 | Cancer Class  | 62.73%          | 64.66%                 | 0.6386   | 0.6273 | 0.6983    | 0.9442|
-| Relation      | 93.70%          | 0                    | 0.9123   | 0.9370 | 0.8989    | 0.9986|
+
 
 ---
 
