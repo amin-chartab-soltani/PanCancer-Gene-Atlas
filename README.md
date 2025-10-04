@@ -21,7 +21,7 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 ## Model Architecture
 
 - **Embedding layer** for text representation  
-- **5 stacked BiLSTM layers** for sequential modeling  
+- **5 stacked LSTM layers** for sequential modeling  
 - **Multi-Head Attention** for capturing dependencies  
 - **Dual-branch outputs**:
   - *Cancer class prediction*  
