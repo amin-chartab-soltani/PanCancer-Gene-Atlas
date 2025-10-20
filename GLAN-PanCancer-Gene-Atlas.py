@@ -1,5 +1,5 @@
 # ============================================
-# Hybrid Deep Model (LSTM + GAT-like) for Gene Pair Classification
+#  Grap LSTM Attenetion Network (GLAN)
 # ============================================
 
 # --- Silence warnings ---
