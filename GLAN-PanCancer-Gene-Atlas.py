@@ -211,10 +211,3 @@ test_results = model.evaluate(
 print("\n🔹 Test Results:")
 for name, val in zip(model.metrics_names, test_results):
     print(f"{name}: {val:.4f}")
-
-
-# In[ ]:
-
-
-
-
